@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "Name": "Noutbuk",
+      "Info": "13 düym, Intel Core i7, 512 GB SSD",
+      "Price": 3500
+    },
+    {
+      "id": "3",
+      "Name": "Tablet",
+      "Info": "10.1 düym, 4 GB RAM, 64 GB saxlama",
+      "Price": 1200
+    },
+    {
+      "id": "4",
+      "Name": "Kulaklıq",
+      "Info": "Bluetooth, fəal gürültü aradan qaldırma, 40 saat pille işlər",
+      "Price": 500
+    },
+    {
+      "id": "5",
+      "Name": "Oyun Konsolu",
+      "Info": "PlayStation 5, 4K qətnamə, 1 TB SSD",
+      "Price": 4500
+    },
+    {
+      "id": "6",
+      "Name": "Ağıllı Saat",
+      "Info": "Su davamlı, ürək atış dərəcəsini izləmə, yuxu izləmə",
+      "Price": 700
+    },
+    {
+      "id": "7",
+      "Name": "Kamera",
+      "Info": "DSLR, 24 MP qətnamə, 4K video qeyd",
+      "Price": 3000
+    },
+    {
+      "id": "8",
+      "Name": "Qablosuz Şarj Cihazı",
+      "Info": "Tez şarj, uyğun telefonlarla",
+      "Price": 100
+    },
+    {
+      "id": "9",
+      "Name": "Yazıcı",
+      "Info": "Rəngli lazer yazıcı, Wi-Fi bağlantısı, skan və nüsxə",
+      "Price": 800
+    },
+    {
+      "id": "10",
+      "Name": "Xarici SSD",
+      "Info": "1 TB saxlama, USB 3.1 bağlantı, yüksək sürət",
+      "Price": 600
+    }
+  ]
+}
